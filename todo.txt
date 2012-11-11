@@ -4,11 +4,6 @@ particles
 	javadoc
 json
 	disable reflection to parse into map/array
-tablelayout
-	add cell to existing row
-		http://www.badlogicgames.com/forum/viewtopic.php?f=11&t=2784
-	simplify DSL by removing widget properties?
-	use {name:xxx} instead of [xxx:{}]
 sound
 	ogg problem
 		http://www.badlogicgames.com/forum/viewtopic.php?f=11&t=869&p=14117
